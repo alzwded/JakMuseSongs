@@ -1,10 +1,10 @@
-[NPS=40]
+[NPS=80]
 {trump0.inc}
-{2xtrump_notes.inc}
+{4xtrump_notes.inc}
 ;
 
 {trump1.inc}
-{2xtrump_notes.inc}
+{4xtrump_notes.inc}
 ;
 
-{4xdrums.sng}
+{8xdrums.sng}
