@@ -1,9 +1,9 @@
 [NPS=80]
-{trump0.inc}
+{trump0.inc$base=0}
 {4xtrump_notes.inc}
 ;
 
-{trump1.inc}
+{trump1.inc$base=0}
 {4xtrump_notes.inc}
 ;
 

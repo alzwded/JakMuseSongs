@@ -1,14 +1,15 @@
 # square part of trumpet
-0 /
+[chan:=base+0]
+<chan> /
   NPS <NPS>
   Fill 32
-  MaxVol 32
-  A 100
-  D 400
-  S 196
-  R 10
-  Filter 6000
-  LFODepth 60
+  MaxVol 62
+  A 200
+  D 350
+  S 100
+  R 20
+  Filter 8000
+  LFODepth 120
   LFOFreq 7
   LFOPhase 134
   Glide 50
