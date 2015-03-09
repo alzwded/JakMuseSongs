@@ -8,7 +8,8 @@
   S 196
   R 10
   Filter 2000
-  LFODepth 40
-  LFOFreq 10
+  LFODepth 37
+  LFOFreq 4
+  LFOPhase 117
   Glide 50
 /

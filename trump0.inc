@@ -9,6 +9,7 @@
   R 10
   Filter 6000
   LFODepth 60
-  LFOFreq 8
+  LFOFreq 7
+  LFOPhase 134
   Glide 50
 /
