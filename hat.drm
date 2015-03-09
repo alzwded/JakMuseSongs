@@ -1,0 +1,53 @@
+4 /
+    NPS <NPS> 
+    Fill 1
+    Filter 65534
+    MaxVol 100
+    A 0
+    D 200
+    S 0
+    LFODepth 80
+    #LFOFreq 3000
+    LFOFreq 16000
+    LFOPhase 230
+/
+12C0
+;
+
+
+6 /
+    NPS <NPS>
+    Filter 65534
+    Fill 64
+    MaxVol 30
+    A 50
+    D 0
+    S 255
+    R 0
+    LFODepth 100
+    LFOFreq 14000
+    LFOPhase 240
+    Glide 200
+/
+1G7 
+;
+
+6 /
+    NPS <NPS>
+    Filter 65534
+    Fill 64
+    MaxVol 30
+    A 0
+    D 100
+    S 0
+    R 0
+    #LFODepth 100
+    #LFOFreq 20
+    #LFOPhase 128
+    LFODepth 100
+    LFOFreq 14000
+    LFOPhase 240
+    Glide 100
+/
+6G10 5-
+;
