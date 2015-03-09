@@ -1,0 +1,11 @@
+*.txt
+*.pdb
+*.dmp
+*.core
+core
+jakmuse.exe
+jakkat.exe
+SDL.dll
+*.txt
+*.wav
+*.out

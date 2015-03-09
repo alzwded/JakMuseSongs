@@ -1,0 +1,34 @@
+4 /
+    NPS <NPS> 
+    Fill 24
+    Filter 200
+    MaxVol 200
+    A 0
+    D 240
+    S 0
+/
+12C0
+;
+
+6 /
+    NPS <NPS>
+    Filter 65534
+    Fill 64
+    MaxVol 160
+    A 0
+    D 0
+    R 0
+    LFODepth 0
+    Glide 50
+/
+1G2
+;
+
+6 /
+    NPS <NPS>
+    Glide 800
+    D 800
+    S 0
+/
+11G0
+;
