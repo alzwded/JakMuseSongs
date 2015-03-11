@@ -1,4 +1,4 @@
 #!/bin/csh
 
-jakkat -w main.out main.sng
-jakmuse -w test.wav < main.out
+../Jakkat/jakkat -w main.out main.sng
+../JakMuse/jakmuse -w test.wav < main.out

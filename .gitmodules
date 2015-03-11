@@ -1,0 +1,6 @@
+[submodule "JakMuse"]
+	path = JakMuse
+	url = https://github.com/alzwded/JakMuse.git
+[submodule "Jakkat"]
+	path = Jakkat
+	url = https://github.com/alzwded/Jakkat.git
