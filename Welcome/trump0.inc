@@ -2,7 +2,7 @@
 
 # square part of trumpet
 [chan:=base+0]
-[tVol:=VOL/2]
+[tVol:=2*VOL/5]
 <chan> /
   NPS <NPS>
   Fill 32
@@ -10,8 +10,8 @@
   A 200
   D 350
   S 100
-  R 20
-  Filter 8000
+  R 60
+  Filter 3500
   LFODepth 120
   LFOFreq 7
   LFOPhase 134

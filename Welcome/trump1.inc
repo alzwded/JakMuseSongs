@@ -6,13 +6,13 @@
   NPS <NPS>
   Fill 0
   MaxVol <VOL>
-  A 100
+  A 120
   D 400
   S 196
-  R 50
-  Filter 2000
+  R 150
+  Filter 1600
   LFODepth 37
-  LFOFreq 4
+  LFOFreq 5
   LFOPhase 117
   Glide 50
 /
