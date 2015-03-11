@@ -1,12 +1,14 @@
 # This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 
 [NPS=80]
+[VOL=128]
 {trump0.inc$base=0}
-{4xtrump_notes.inc}
+{2xtrump_notes.inc}
 ;
 
 {trump1.inc$base=0}
-{4xtrump_notes.inc}
+{2xtrump_notes.inc}
 ;
 
-{8xdrums.sng}
+[VOL=200]
+{2xdrums.sng}

@@ -5,7 +5,7 @@
 <chan> /
   NPS <NPS>
   Fill 0
-  MaxVol 128
+  MaxVol <VOL>
   A 100
   D 400
   S 196

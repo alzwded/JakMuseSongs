@@ -2,10 +2,11 @@
 
 # square part of trumpet
 [chan:=base+0]
+[tVol:=VOL/2]
 <chan> /
   NPS <NPS>
   Fill 32
-  MaxVol 62
+  MaxVol <tVol>
   A 200
   D 350
   S 100
