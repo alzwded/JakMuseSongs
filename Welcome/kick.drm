@@ -4,7 +4,7 @@
     NPS <NPS> 
     Fill 24
     Filter 200
-    MaxVol 200
+    MaxVol <VOL>
     A 0
     D 240
     S 0
@@ -13,11 +13,12 @@
 12C0
 ;
 
+[tVol:=VOL*160/200]
 6 /
     NPS <NPS>
     Filter 65534
     Fill 64
-    MaxVol 160
+    MaxVol <tVol>
     A 0
     D 0
     R 0
