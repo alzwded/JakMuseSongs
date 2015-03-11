@@ -13,6 +13,6 @@
   Filter 1600
   LFODepth 37
   LFOFreq 5
-  LFOPhase 117
+  LFOPhase <seed>
   Glide 50
 /
