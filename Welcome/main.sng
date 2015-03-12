@@ -1,8 +1,9 @@
 # This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 
 [NPS=80]
-[VOL=70]
 
+# first refrain
+[VOL=70]
 {trump0.inc$base=0$seed=124}
 {2xtrump_notes.inc}
 ;
@@ -20,3 +21,23 @@
 
 [VOL=100]
 {2xdrums.sng}
+
+# first verse?
+[VOL=70]
+{trump0.inc$base=0$seed=124}
+{trump_low_B_notes.inc}
+;
+{trump1.inc$base=0$seed=117}
+{trump_low_B_notes.inc}
+;
+
+[VOL=80]
+{trump0.inc$base=1$seed=163}
+{trump_high_B_notes.inc}
+;
+{trump1.inc$base=1$seed=67}
+{trump_high_B_notes.inc}
+;
+
+[VOL=100]
+{1xdrums.sng}

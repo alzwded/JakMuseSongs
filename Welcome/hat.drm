@@ -13,8 +13,9 @@
     #LFOFreq 3000
     LFOFreq 16000
     LFOPhase 230
+    ResetADSR 1
 /
-12C0
+11C0 1-
 ;
 
 [tVol:=VOL*30/200]
@@ -31,6 +32,7 @@
     LFOFreq 14000
     LFOPhase 240
     Glide 200
+    ResetADSR 1
 /
 1G7 
 ;
@@ -51,6 +53,7 @@
     LFOFreq 14000
     LFOPhase 240
     Glide 100
+    ResetADSR 1
 /
 6G10 5-
 ;

@@ -12,8 +12,9 @@
     #LFOFreq 3000
     LFOFreq 6
     LFOPhase 8
+    ResetADSR 1
 /
-12C0
+11C0 1-
 ;
 
 
@@ -21,5 +22,5 @@
     NPS <NPS>
     MaxVol 0
 /
-12C0
+11C0 1-
 ;

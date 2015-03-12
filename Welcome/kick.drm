@@ -9,8 +9,9 @@
     D 240
     S 0
     LFODepth 0
+    ResetADSR 1
 /
-12C0
+11C0 1-
 ;
 
 [tVol:=VOL*160/200]
@@ -24,6 +25,7 @@
     R 0
     LFODepth 0
     Glide 50
+    ResetADSR 1
 /
 1G2
 ;
@@ -34,6 +36,7 @@
     A 0
     D 800
     S 0
+    ResetADSR 1
 /
-11G0
+10G0 1-
 ;

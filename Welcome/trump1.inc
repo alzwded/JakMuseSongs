@@ -15,4 +15,5 @@
   LFOFreq 5
   LFOPhase <seed>
   Glide 50
+  ResetADSR 1
 /
