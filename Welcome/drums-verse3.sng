@@ -1,0 +1,22 @@
+# This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+# channels 4 & 6
+
+# measures 1-4
+{kick.drm} {kick2.drm} {kick.drm} {hat.drm}
+        {kick.drm} {pause.drm} {hat.drm} {snare.drm}
+{splash.drm} {kick.drm} {splash.drm} {hat.drm}
+        {snare.drm} {kick.drm} {hat.drm} {snare.drm}
+{kick.drm} {kick2.drm} {kick.drm} {kick2.drm}
+        {kick.drm} {snare.drm} {splash.drm} {snare.drm}
+{kick.drm} {kick2.drm} {kick.drm} {kick2.drm}
+        {snare.drm} {kick.drm} {splash.drm} {pause.drm}
+# measures 5-8
+{kick.drm} {kick2.drm} {kick.drm} {kick2.drm}
+        {kick.drm} {snare.drm} {splash.drm} {snare.drm}
+{kick.drm} {kick2.drm} {kick.drm} {kick2.drm}
+        {snare.drm} {kick.drm} {splash.drm} {pause.drm}
+{kick.drm} {kick2.drm} {kick.drm} {hat.drm}
+        {kick.drm} {pause.drm} {hat.drm} {snare.drm}
+{splash.drm} {kick.drm} {splash.drm} {hat.drm}
+        {snare.drm} {pause.drm} {hat.drm} {kick.drm}

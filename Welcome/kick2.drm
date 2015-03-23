@@ -1,0 +1,42 @@
+# This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+4 /
+    NPS <NPS> 
+    Fill 29
+    Filter 150
+    MaxVol <VOL>
+    A 0
+    D 240
+    S 0
+    LFODepth 0
+    ResetADSR 1
+/
+11C0 1-
+;
+
+[tVol:=VOL*160/200]
+6 /
+    NPS <NPS>
+    Filter 65534
+    Fill 64
+    MaxVol <tVol>
+    A 0
+    D 0
+    R 0
+    LFODepth 0
+    Glide 50
+    ResetADSR 1
+/
+1E2
+;
+
+6 /
+    NPS <NPS>
+    Glide 800
+    A 0
+    D 800
+    S 0
+    ResetADSR 1
+/
+10G0 1-
+;

@@ -1,0 +1,36 @@
+# This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+# first refrain
+{trump0.inc$base=0$seed=124$VOL:=T1VOL}
+{2xtrump_notes.inc}
+;
+{trump1.inc$base=0$seed=117$VOL:=T1VOL}
+{2xtrump_notes.inc}
+;
+
+{trump0.inc$base=1$seed=163$VOL:=T2VOL}
+{2xtrump_above_notes.inc}
+;
+{trump1.inc$base=1$seed=67$VOL:=T2VOL}
+{2xtrump_above_notes.inc}
+;
+
+{2xdrums.sng$VOL:=DVOL}
+
+# first verse?
+{trump0.inc$base=0$seed=124$VOL:=T1VOL}
+{trump_low_B_notes.inc}
+;
+{trump1.inc$base=0$seed=117$VOL:=T1VOL}
+{trump_low_B_notes.inc}
+;
+
+{trump0.inc$base=1$seed=163$VOL:=T2VOL}
+{trump_high_B_notes.inc}
+;
+{trump1.inc$base=1$seed=67$VOL:=T2VOL}
+{trump_high_B_notes.inc}
+;
+
+{2xdrums.sng$VOL:=DVOL}
+{1xdrums-verse3.sng$VOL:=DVOL}
