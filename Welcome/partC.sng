@@ -1,0 +1,33 @@
+# This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+# refrain
+{trump0.inc$base=0$seed:=T1SEEDA$VOL:=T1VOL}
+{trump_notes.inc}
+{trump_low_C_notes.inc}
+{trump_notes.inc}
+{trump_low_apoth_ending.inc}
+;
+{trump1.inc$base=0$seed:=T1SEEDB$VOL:=T1VOL}
+{trump_notes.inc}
+{trump_low_C_notes.inc}
+{trump_notes.inc}
+{trump_low_apoth_ending.inc}
+;
+
+{trump0.inc$base=1$seed:=T2SEEDA$VOL:=T2VOL}
+{trump_above_notes.inc}
+{trump_high_C_notes.inc}
+{trump_above_notes.inc}
+{trump_above_apoth_ending.inc}
+;
+{trump1.inc$base=1$seed:=T2SEEDB$VOL:=T2VOL}
+{trump_above_notes.inc}
+{trump_high_C_notes.inc}
+{trump_above_notes.inc}
+{trump_above_apoth_ending.inc}
+;
+
+{drums.sng$VOL:=DVOL}
+{drums_C.sng$VOL:=DVOL}
+{drums.sng$VOL:=DVOL}
+{drums_apoth_ending.sng$VOL:=DVOL}

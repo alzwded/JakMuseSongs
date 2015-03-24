@@ -1,0 +1,29 @@
+# This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+# measures 1-4
+{kick.drm} {pause.drm} {kick.drm} {pause.drm}
+    {kick.drm} {pause.drm} {kick.drm} {pause.drm}
+{kick.drm} {pause.drm} {kick.drm} {pause.drm}
+    {kick.drm} {pause.drm} {kick.drm} {pause.drm}
+{kick.drm} {pause.drm} {kick.drm} {hat.drm}
+    {kick.drm} {pause.drm} {kick.drm} {hat.drm}
+{kick.drm} {pause.drm} {kick.drm} {hat.drm}
+    {kick.drm} {pause.drm} {kick.drm} {hat.drm}
+# measure 4-8
+{kick.drm} {splash.drm} {kick.drm} {hat.drm}
+    {kick.drm} {splash.drm} {kick.drm} {hat.drm}
+{kick.drm} {splash.drm} {kick.drm} {hat.drm}
+    {kick.drm} {splash.drm} {kick.drm} {hat.drm}
+{kick.drm} {snare.drm} {kick.drm} {hat.drm}
+    {kick.drm} {snare.drm} {kick.drm} {hat.drm}
+{kick.drm} {snare.drm} {kick.drm} {hat.drm}
+    {kick.drm} {snare.drm} {kick.drm} {hat.drm}
+# measure 8-12
+{kick.drm} {snare.drm} {kick.drm} {snare.drm}
+    {kick.drm} {snare.drm} {kick.drm} {snare.drm}
+{kick.drm} {snare.drm} {kick.drm} {snare.drm}
+    {kick.drm} {snare.drm} {kick.drm} {snare.drm}
+{kick.drm} {kick2.drm} {kick.drm} {kick2.drm}
+    {kick.drm} {kick2.drm} {kick.drm} {kick2.drm}
+{snare.drm} {snare.drm} {snare.drm} {snare.drm}
+    {kick.drm} {snare.drm} {splash.drm} {kick2.drm}

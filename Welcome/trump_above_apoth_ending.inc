@@ -1,14 +1,3 @@
 # This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 
-[NPS=80]
-[T1VOL=70]
-[T1SEEDA=124]
-[T1SEEDB=117]
-[T2SEEDA=163]
-[T2SEEDB=67]
-[T2VOL=80]
-[DVOL=100]
-
-{2xpartA.sng}
-
-{partC.sng}
+96C6 48-
