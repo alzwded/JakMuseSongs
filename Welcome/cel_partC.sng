@@ -1,19 +1,6 @@
 # This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 
-[NPS=80]
-[T1VOL=43]
-[T2VOL=50]
-[T1SEEDA=124]
-[T1SEEDB=117]
-[T2SEEDA=163]
-[T2SEEDB=67]
-[DVOL=70]
-[VVOL=47]
-
-{2xpartA.sng}
-
-{cel_partA.sng}
-{cel_partB.sng}
-
-{partC.sng}
-{cel_partC.sng}
+{cel.inc$VOL:=VVOL}
+{cel_partC_notes.inc}
+{cel_apoth_end.inc}
+;
